@@ -68,5 +68,13 @@
     .footercopy{
         font-size: 0.5rem !important;
     }
-
+    .btn-border{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+    }
+    .btn-border button{
+        width: 200px !important;
+    }
 }
